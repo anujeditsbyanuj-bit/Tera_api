@@ -10,10 +10,6 @@ Deploy your own copy in just a few clicks.
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/anujeditsbyanuj-bit/Tera_api)
 
-🚀 Deploy Button
-
-""Deploy to Cloudflare" (https://deploy.workers.cloudflare.com/button)" (https://deploy.workers.cloudflare.com/?url=https://deploy.workers.cloudflare.com/?url=https://github.com/anujeditsbyanuj-bit/Tera_api)
-
 ✨ The deployment wizard will automatically:
 
 - 🔗 Connect your GitHub account
