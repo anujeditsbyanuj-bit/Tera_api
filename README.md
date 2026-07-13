@@ -11,7 +11,7 @@ Cloudflare, no dashboard clicking-around needed (same idea as Render's
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/anujeditsbyanuj-bit/Tera_api)
 ```
 
-This renders as:
+Cloudflare Worker:
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/anujeditsbyanuj-bit/Tera_api)
 
